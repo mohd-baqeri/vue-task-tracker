@@ -1,7 +1,8 @@
 # vue-task-tracker
 
-# Live Preview
+## Live Preview
 [https://main--lighthearted-panda-1c98f6.netlify.app/](https://main--lighthearted-panda-1c98f6.netlify.app/)
+
 
 ## Project setup
 ```
